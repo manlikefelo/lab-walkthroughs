@@ -3,9 +3,9 @@
 Walkthroughs for 25 rooms and modules I've worked through on **TryHackMe** and
 **Hack The Box Academy**.
 
-I write up every box I do. Each PDF here is a full walkthrough — my own notes, my own
-screenshots, and the reasoning behind each step, including the parts where I got stuck and
-had to back up. They're grouped by the skill they build rather than the order I did them in.
+I write up every box I do. Each PDF here is the full walkthrough: my own notes, my own
+screenshots, and the reasoning behind each step, including the bits where I got stuck and had
+to back up. I've grouped them by the skill they build rather than the order I did them in.
 
 > Looking for my own engineering work rather than guided rooms?
 > **→ [cybersecurity-portfolio](https://github.com/manlikefelo/cybersecurity-portfolio)** — the AD + SIEM home lab I built, attacked, detected, and investigated.
@@ -67,11 +67,12 @@ Where I started.
 
 ## What this repo is (and isn't)
 
-These are **guided labs** — the rooms provide the target and the objectives, and I worked
-through them. They show foundations, range, and the habit of documenting work properly.
+These are guided labs. The room gives me a target and a goal, and I work my way through it.
+What they show is that I've got the foundations, I've covered a fair bit of ground, and I
+actually write things down as I go.
 
-They are **not** the same as designing something from scratch. For that, see the home lab I
-built and broke myself:
+What they're not is building something from nothing. For that, look at the lab I stood up and
+attacked myself:
 
 | Repo | What it proves |
 |---|---|
@@ -85,10 +86,9 @@ built and broke myself:
 
 ## A note on the content
 
-These are my own write-ups, published as a record of how I work through a target. Room and
-module content belongs to TryHackMe and Hack The Box respectively — if
-you're working through any of these yourself, you'll get far more out of it by struggling
-with the task first and reading someone else's notes second.
+These are my own write-ups. The rooms and modules themselves belong to TryHackMe and Hack The
+Box. If you're doing any of these yourself, do yourself a favour and wrestle with the task
+first before you read anyone's notes, mine included. That's where the learning actually is.
 
 ---
 
