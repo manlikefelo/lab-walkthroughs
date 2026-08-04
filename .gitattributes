@@ -1,0 +1,4 @@
+# Treat PDFs as binary so GitHub uses its PDF viewer instead of trying to
+# render them as text. Git for Windows' system config marks *.pdf as
+# `astextplain`, which makes GitHub's frontend show "Unable to render code block".
+*.pdf binary -diff -text
