@@ -92,4 +92,4 @@ first before you read anyone's notes, mine included. That's where the learning a
 
 ---
 
-**Felix Githure** · [LinkedIn](https://linkedin.com/in/felix-githure-2a1b91144) · [githure.felix95@gmail.com](mailto:githure.felix95@gmail.com)
+**Felix Githure** · [LinkedIn](https://www.linkedin.com/in/felix-githure/) · [felix.maina095@gmail.com](mailto:felix.maina095@gmail.com)
