@@ -1,4 +1,4 @@
-# Lab Walkthroughs — TryHackMe & Hack The Box Academy
+# Lab Walkthroughs: TryHackMe & Hack The Box Academy
 
 Walkthroughs for 25 rooms and modules I've worked through on **TryHackMe** and
 **Hack The Box Academy**.
@@ -8,11 +8,11 @@ screenshots, and the reasoning behind each step, including the bits where I got 
 to back up. I've grouped them by the skill they build rather than the order I did them in.
 
 > Looking for my own engineering work rather than guided rooms?
-> **→ [cybersecurity-portfolio](https://github.com/manlikefelo/cybersecurity-portfolio)** — the AD + SIEM home lab I built, attacked, detected, and investigated.
+> **→ [cybersecurity-portfolio](https://github.com/manlikefelo/cybersecurity-portfolio)**: the AD + SIEM home lab I built, attacked, detected, and investigated.
 
 ---
 
-## 🔵 Defensive · SOC · Forensics
+## Defensive · SOC · Forensics
 
 The blue-team core: triage an alert, read the logs, follow the artifacts.
 
@@ -25,7 +25,7 @@ The blue-team core: triage an alert, read the logs, follow the artifacts.
 | [Intro to Malware Analysis](walkthroughs/04-defensive-soc/thm-intro-to-malware-analysis.pdf) | THM | Static vs. dynamic analysis, extracting IOCs |
 | [Threat Intelligence Tools](walkthroughs/04-defensive-soc/thm-threat-intelligence-tools.pdf) | THM | UrlScan.io, Abuse.ch, PhishTool, Cisco Talos |
 
-## 🔴 Offensive · Pentesting
+## Offensive · Pentesting
 
 Understanding the attack well enough to detect it.
 
@@ -39,17 +39,17 @@ Understanding the attack well enough to detect it.
 | [Vulnerability Assessment](walkthroughs/03-offensive/htb-vulnerability-assessment.pdf) | HTB Academy | VA vs. pentest, scanning, prioritising remediation |
 | [Intro to Offensive Security](walkthroughs/03-offensive/thm-intro-to-offensive-security.pdf) | THM | Attacker mindset, directory fuzzing with gobuster |
 
-## 🌐 Networking · Recon · Wireless
+## Networking · Recon · Wireless
 
 | Walkthrough | Platform | What it covers |
 |---|:---:|---|
-| [Passive Reconnaissance](walkthroughs/02-networking-recon/thm-passive-reconnaissance.pdf) | THM | whois, nslookup, dig — OSINT without touching the target |
+| [Passive Reconnaissance](walkthroughs/02-networking-recon/thm-passive-reconnaissance.pdf) | THM | whois, nslookup, dig: OSINT without touching the target |
 | [DNS in Detail](walkthroughs/02-networking-recon/thm-dns-in-detail.pdf) | THM | Record types, resolution flow, DNS hierarchy |
 | [Introduction to Networking](walkthroughs/02-networking-recon/htb-introduction-to-networking.pdf) | HTB Academy | OSI & TCP/IP, subnetting, proxies, topologies |
-| [Layer 2 MAC Flooding & ARP Spoofing](walkthroughs/02-networking-recon/thm-layer2-mac-flooding-arp-spoofing.pdf) | THM | ettercap, arpspoof, macof — L2 attack and defence |
+| [Layer 2 MAC Flooding & ARP Spoofing](walkthroughs/02-networking-recon/thm-layer2-mac-flooding-arp-spoofing.pdf) | THM | ettercap, arpspoof, macof: L2 attack and defence |
 | [WiFi Hacking 101](walkthroughs/02-networking-recon/thm-wifi-hacking-101.pdf) | THM | Aircrack-ng, handshake capture, WPA analysis |
 
-## 🧱 Foundations
+## Foundations
 
 Where I started.
 
