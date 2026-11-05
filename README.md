@@ -8,7 +8,7 @@ screenshots, and the reasoning behind each step, including the bits where I got 
 to back up. I've grouped them by the skill they build rather than the order I did them in.
 
 > Looking for my own engineering work rather than guided rooms?
-> **→ [cybersecurity-portfolio](https://github.com/manlikefelo/cybersecurity-portfolio)**: the AD + SIEM home lab I built, attacked, detected, and investigated.
+> **[cybersecurity-portfolio](https://github.com/manlikefelo/cybersecurity-portfolio)**: the AD + SIEM home lab I built, attacked, detected, and investigated.
 
 ---
 
@@ -74,7 +74,7 @@ actually write things down as I go.
 What they're not is building something from nothing. For that, look at the lab I stood up and
 attacked myself:
 
-| Repo | What it proves |
+| Repo | What it shows |
 |---|---|
 | [security-homelab](https://github.com/manlikefelo/security-homelab) | Designing and documenting an AD + Wazuh SIEM lab on 16 GB of RAM |
 | [ad-attack-chain](https://github.com/manlikefelo/ad-attack-chain) | Enumeration → exploitation → Domain Admin, with remediation |
